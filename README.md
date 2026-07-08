@@ -315,9 +315,9 @@ git push origin feature-name
 
 AI & Machine Learning Student
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Angelina2007-a
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/angelina-raj-7a601633b/
 
 ---
 
